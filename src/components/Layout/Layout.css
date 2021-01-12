@@ -1,0 +1,15 @@
+.Layout{
+    margin-top: auto;
+    color: blue;
+    text-align: center;
+}
+.Layout-tool{
+    background-color: #7a097a;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}

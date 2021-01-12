@@ -1,0 +1,9 @@
+.BurgerIngredients{
+margin:auto;
+margin-top: 40px;
+text-align: center;
+border: 2px solid black;
+box-shadow: 2px solid grey;
+width:40%;
+padding: 8px;
+}
